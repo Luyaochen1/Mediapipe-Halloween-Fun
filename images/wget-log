@@ -1,0 +1,11 @@
+--2022-10-21 20:48:18--  https://images.unsplash.com/photo-1542789828-6c82d889ed74?ixlib=rb-1.2.1
+Resolving images.unsplash.com (images.unsplash.com)... 151.101.182.208, 2a04:4e42:2b::720
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.182.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9673822 (9.2M) [image/jpeg]
+Saving to: ‘photo-1542789828-6c82d889ed74?ixlib=rb-1.2.1’
+
+          photo-154   0%[                    ]       0  --.-KB/s                        photo-1542  13%[=>                  ]   1.26M  6.27MB/s                       photo-15427  29%[====>               ]   2.72M  6.73MB/s                      photo-154278  44%[=======>            ]   4.06M  6.72MB/s                     photo-1542789  74%[=============>      ]   6.86M  8.52MB/s               photo-1542789828-6c 100%[===================>]   9.23M  10.5MB/s    in 0.9s    
+
+2022-10-21 20:48:19 (10.5 MB/s) - ‘photo-1542789828-6c82d889ed74?ixlib=rb-1.2.1’ saved [9673822/9673822]
+
