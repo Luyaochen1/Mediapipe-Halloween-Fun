@@ -5,9 +5,12 @@ Python scripts using the Mediapipe models for Halloween.
 Mainly for fun. But this repository also includes useful examples for things like image transformations (affine), image overlapping, model inference...
 
 # Installation
+
+Python>= 3.7
+
 ```
-git clone https://github.com/ibaiGorordo/Mediapipe-Halloween-Examples
-cd Mediapipe-Halloween-Examples
+git clone https://github.com/ibaiGorordo/Mediapipe-Halloween-Fun
+cd Mediapipe-Halloween-Fun
 pip install -r requirements.txt
 ```
 # Original models
@@ -50,7 +53,13 @@ Most of the models were taken from Mediapipe: https://google.github.io/mediapipe
  python webcamFireHair.py
  ```
  
-
+ 
+ * **All in One ( rotate)**:
+ 
+  ```
+ python webcamRotate.py
+ ```
+ 
 
 
 # References:
